@@ -1,4 +1,4 @@
 # git_test
 My first GitHub repo!
 Hello Odin!
-Hello from VC!
+Changed 22 02 2022
